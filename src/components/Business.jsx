@@ -1,5 +1,5 @@
-import { features } from "../constants"
-import { Button } from "./"
+import { features } from '../constants'
+import { Button } from './'
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div

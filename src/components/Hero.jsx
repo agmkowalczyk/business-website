@@ -45,7 +45,9 @@ const Hero = () => {
         <div className='absolute z-[0] w-[90%] h-[90%] right-20 bottom-2 blue__gradient' />
       </div>
 
-      <div className='ss:hidden flexCenter'><GetStarted /></div>
+      <div className='ss:hidden flexCenter'>
+        <GetStarted />
+      </div>
     </section>
   )
 }
