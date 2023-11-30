@@ -1,4 +1,4 @@
-import { clients } from "../constants"
+import { clients } from '../constants'
 
 const Clients = () => (
   <section className='flexCenter} my-4'>
